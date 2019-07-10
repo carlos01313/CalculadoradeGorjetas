@@ -1,4 +1,4 @@
-# Template-Pagina-Web
+# Aplicativo Android Calculadora de Gorjetas
 Aplicativo fictício feito com o objetivo de treinar habilidades aprendidas como :
 - Seekbar
 - captura de textos digitados pelo usuário
